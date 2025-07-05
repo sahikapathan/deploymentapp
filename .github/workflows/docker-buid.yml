@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: sahikapathan308/deploymentapp:latest
+        tags: sahikapathan9@gmail.com/deploymentapp:latest
